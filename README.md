@@ -1,6 +1,6 @@
-<h1 align= "center">Hi Everyone, I'm Nahees
-</h1>
-<img href="naruto-anime.gif"/img>
+<h1 align= "center">Hi Everyone, I'm Nahees</h1>
+<img align= "center" width="400px" src="naruto-anime-0004.jpg" alt="Naruto">
+
 I'm undergraduate S1 IT student at [University of AKPRIND Indonesia](https://www.akprind.ac.id/).<br>
 I'm interested in Music🎧, Movies🎬, Gaming🎮.<br>
 I have done many project using C++, Python, Java.<br>
