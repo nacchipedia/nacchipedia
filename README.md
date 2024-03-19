@@ -1,8 +1,11 @@
-<p align= "center">Hi Everyone, I'm Nahees
+<h1 align= "center">Hi Everyone, I'm Nahees
+</h1>
  
-Perkenalkan nama saya **Nahees Hasan Noor**.<br>
- 
-Saya seorang **Mahasiswa** di [Universitas AKPRIND Indonesia](https://www.akprind.ac.id/).<br>
+I'm currently studying at [Universitas AKPRIND Indonesia](https://www.akprind.ac.id/).<br>
+
+I'm interested in Music🎧, Movies🎬, Gaming🎮.<br>
+
+.<br>
  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/bananatrashh/)ku ya.
  
