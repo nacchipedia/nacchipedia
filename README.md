@@ -1,8 +1,7 @@
 <h1 align= "center">Hi Everyone, I'm Nahees
 </h1>
-I'm undergraduate IT student.<br>
 
-I'm currently studying at [University of AKPRIND Indonesia](https://www.akprind.ac.id/).<br>
+I'm undergraduate S1 IT student at [University of AKPRIND Indonesia](https://www.akprind.ac.id/).<br>
 I'm interested in Music🎧, Movies🎬, Gaming🎮.<br>
 
 
